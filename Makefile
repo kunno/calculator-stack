@@ -1,4 +1,4 @@
-# This is the Makefile to use for Homework Assignment #9
+# This is the Makefile to use for calculator-stack
 # To use, at the prompt, type:
 #
 #       make Calc               # This will make executable calc
